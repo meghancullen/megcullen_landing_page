@@ -200,8 +200,9 @@ body {
 }
 
 .skill-tag--secondary {
-  background-color: var(--color-nav-bg);
-  color: var(--color-white);
+  background-color: var(--color-secondary-bg);
+  color: var(--color-text);
+  border: 1px solid #c5d0dc;
 }
 
 /* ============================================================
